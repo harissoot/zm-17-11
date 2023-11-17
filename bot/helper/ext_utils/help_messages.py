@@ -74,7 +74,7 @@ Check all yt-dlp api options from this <a href='https://github.com/yt-dlp/yt-dlp
 10.<code>-up</code> to upload to your drive.
 11.<code>-rcf</code> to add rclone flags.
 
-<b>Powered By @Z_Mirror</b>
+<b>Powered By </b>
 """
 
 MIRROR_HELP_MESSAGE = """
@@ -164,7 +164,7 @@ Some links need user access so sure you must add USER_SESSION_STRING for it.
 1. Commands that start with <b>qb</b> are ONLY for torrents.
 2. Read all arguments <a href='https://graph.org/Z-Mirror-Bot-Arguments-06-10'>HERE</a>.
 
-<b>Powered By @Z_Mirror</b>
+<b>Powered By </b>
 """
 
 RSS_HELP_MESSAGE = """
@@ -210,7 +210,7 @@ drive_id must be folder id and index must be url else it will not accept
 
 <b><u>Note</u></b>: If -up not specified then rclone destination will be the RCLONE_PATH from config.env
 
-<b>Powered By @Z_Mirror</b>
+<b>Powered By </b>
 """
 
 CAT_SEL_HELP_MESSAGE = """
@@ -223,7 +223,7 @@ But you can always use /{mir} with to select category before download start.
 <code>/{cmd}</code> -id <code>drive_folder_link</code> or <code>drive_id</code> -index <code>https://anything.in/0:</code> gid or by replying to active download
 drive_id must be folder id and index must be url else it will not accept.
 
-<b>Powered By @Z_Mirror</b>
+<b>Powered By </b>
 """
 
 TOR_SEL_HELP_MESSAGE = """
